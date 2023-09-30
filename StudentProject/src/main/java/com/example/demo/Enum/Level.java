@@ -7,4 +7,5 @@ public enum Level {
   FIRST__HIGH_SCHOOL,
   SECOND__HIGH_SCHOOL,
   THIRD__HIGH_SCHOOL
+
 }

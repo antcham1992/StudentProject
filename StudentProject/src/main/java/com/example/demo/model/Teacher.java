@@ -7,4 +7,5 @@ public class Teacher {
   private String biography;
   private List <Student> students;
   private List <Lesson> lessons;
+
 }
