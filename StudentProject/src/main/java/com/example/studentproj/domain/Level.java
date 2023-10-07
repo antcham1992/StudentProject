@@ -1,6 +1,7 @@
 package com.example.studentproj.domain;
 
 public enum Level {
+
   FIRST_JUNIOR_HIGH_SCHOOL,
   SECOND_JUNIOR_HIGH_SCHOOL,
   THIRD_JUNIOR_HIGH_SCHOOL,
